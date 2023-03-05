@@ -1,5 +1,4 @@
 ﻿using FigureArea;
-using Microsoft.VisualStudio.TestPlatform.ObjectModel;
 
 namespace UnitTests;
 
@@ -22,7 +21,7 @@ public class TriangleTests
     {
         Assert.Throws<ArgumentOutOfRangeException>(() =>
         {
-            FigureArea.Figure.GetTriangle(sideA, sideB, sideC);
+            Figure.GetTriangle(sideA, sideB, sideC);
         });
     }
 
