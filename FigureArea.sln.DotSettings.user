@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ab11b2df_002D97ea_002D444f_002D9ea0_002D472ec49e0447/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Circle_Test_Correct_Radius(10)" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::017C660A-DA5C-4A26-A6F0-3C6EADE6A66F::net7.0::UnitTests.TriangleTests.Triangle_Test_Correct_Sides&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::017C660A-DA5C-4A26-A6F0-3C6EADE6A66F::net7.0::UnitTests.Tests.Circle_Test_Invalid_Radius(-1)&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::017C660A-DA5C-4A26-A6F0-3C6EADE6A66F::net7.0::UnitTests.TriangleTests.Triangle_Test_Incorrect_Sides&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::017C660A-DA5C-4A26-A6F0-3C6EADE6A66F::net7.0::UnitTests.Tests.Circle_Test_Correct_Radius&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::017C660A-DA5C-4A26-A6F0-3C6EADE6A66F::net7.0::UnitTests.TriangleTests.Triangle_Test_Is_Triangle_Right&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::017C660A-DA5C-4A26-A6F0-3C6EADE6A66F::net7.0::UnitTests.Tests.Circle_Test_Invalid_Radius(0)&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
